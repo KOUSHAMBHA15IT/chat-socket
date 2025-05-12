@@ -1,4 +1,4 @@
-# 💬⚡ Futuristic Real-Time Chat Application
+# 💬⚡Real-Time Chat Application
 
 A sleek and modern real-time chat application built with **Spring Boot**, **WebSocket (STOMP over SockJS)**, and **Thymeleaf**. It supports **emojis**, futuristic UI elements, and smooth bi-directional communication between users via WebSocket technology.
 

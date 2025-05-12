@@ -27,7 +27,6 @@ A sleek and modern real-time chat application built with **Spring Boot**, **WebS
 
 ---
 THE DEMO IS : 
-<video width="400" controls style="border: 2px solid #00f0ff; border-radius: 12px; box-shadow: 0 0 10px #00f0ff;">
-  <source src="https://github.com/user-attachments/assets/1a27a030-f460-458f-be02-9151fca401ee" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/1a27a030-f460-458f-be02-9151fca401ee
+

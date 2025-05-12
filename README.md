@@ -27,8 +27,4 @@ A sleek and modern real-time chat application built with **Spring Boot**, **WebS
 
 ---
 THE DEMO IS : 
-
-
-
-
-[![Watch the video](![image](https://github.com/user-attachments/assets/8c2a2786-d2c2-446b-95fd-eba0dc75a360))]([https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4](https://github.com/user-attachments/assets/1a27a030-f460-458f-be02-9151fca401ee))
+https://github.com/user-attachments/assets/1a27a030-f460-458f-be02-9151fca401ee

@@ -1,6 +1,6 @@
-FROM eclipse-temurin:17
+FROM eclipse-temurin:24
 
-LABEL mentainer="koushambha39@gmail.com"
+LABEL mentainer="my-email"
 
 WORKDIR /app
 

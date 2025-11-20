@@ -152,6 +152,8 @@ docker run -p 8080:8080 <your-dockerhub-username>/chat-app:latest
 docker run -p 8080:8080 johndoe/chat-app:latest
 ```
 
+## Check out the live link at https://koushambha15it.github.io/chat_front/
+
 ### 💡 Use Cases:
 - ☁️ Deploy on cloud platforms (AWS, GCP, Azure)
 - 🖥️ Run on any development machine

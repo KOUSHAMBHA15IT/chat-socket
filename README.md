@@ -115,7 +115,7 @@ docker tag chat-app:latest <your-dockerhub-username>/chat-app:latest
 
 **Example:**
 ```bash
-docker tag chat-app:latest johndoe/chat-app:latest
+docker tag chat-app:latest koushambha/chat-app:latest
 ```
 
 ---

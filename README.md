@@ -130,7 +130,7 @@ docker push <your-dockerhub-username>/chat-app:latest
 
 **Example:**
 ```bash
-docker push johndoe/chat-app:latest
+docker push koushambha/chat-app:latest
 ```
 
 Your image is now publicly available! 🎉
